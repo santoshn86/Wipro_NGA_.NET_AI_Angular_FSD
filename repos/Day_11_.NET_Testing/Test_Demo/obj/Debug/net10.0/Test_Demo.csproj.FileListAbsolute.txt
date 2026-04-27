@@ -1,0 +1,15 @@
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\bin\Debug\net10.0\Test_Demo.exe
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\bin\Debug\net10.0\Test_Demo.deps.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\bin\Debug\net10.0\Test_Demo.runtimeconfig.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\bin\Debug\net10.0\Test_Demo.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\bin\Debug\net10.0\Test_Demo.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\obj\Debug\net10.0\Test_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\obj\Debug\net10.0\Test_Demo.AssemblyInfoInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\obj\Debug\net10.0\Test_Demo.AssemblyInfo.cs
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\obj\Debug\net10.0\Test_Demo.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\obj\Debug\net10.0\Test_Demo.sourcelink.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\obj\Debug\net10.0\Test_Demo.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\obj\Debug\net10.0\refint\Test_Demo.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\obj\Debug\net10.0\Test_Demo.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\obj\Debug\net10.0\Test_Demo.genruntimeconfig.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_11_.NET_Testing\Test_Demo\obj\Debug\net10.0\ref\Test_Demo.dll
