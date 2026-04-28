@@ -1,0 +1,25 @@
+﻿namespace Day_12_Design_Principals
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+            INotificationService notification = new EmailNotification();
+            ITransactionRepository repository = new TransactionRepository();
+
+            Wallet wallet = new Wallet(notification, repository);
+
+            wallet.AddMoney(5000);
+
+            IPaymentMethod upi = new UpiPayment();
+            IPaymentMethod card = new CardPayment();
+
+            wallet.MakePayment(upi, 1000);
+            wallet.MakePayment(card, 500);
+
+            wallet.ShowBalance();
+            wallet.ShowTransactions();
+        }
+    }
+}
