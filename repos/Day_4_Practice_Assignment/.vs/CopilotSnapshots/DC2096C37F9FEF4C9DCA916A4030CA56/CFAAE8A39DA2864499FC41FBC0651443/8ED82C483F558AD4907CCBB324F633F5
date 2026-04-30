@@ -1,0 +1,34 @@
+﻿namespace Social_Media_User_Engagement_System
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            SocialMediaSystem system = new SocialMediaSystem();
+
+            // Add Users
+            system.AddUser(1);
+            system.AddUser(2);
+            system.AddUser(1); // duplicate
+
+            // Add Posts
+            system.AddPost("Hello World!");
+            system.AddPost("AI is amazing");
+
+            // Like Posts
+            system.LikePost("Hello World!");
+            system.LikePost("Hello World!");
+
+            // Show Data
+            system.ShowPosts();
+
+            // Undo last action
+            system.Undo();
+
+            system.ShowPosts();
+
+            // Process Notifications
+            system.ProcessNotifications();
+        }
+    }
+}

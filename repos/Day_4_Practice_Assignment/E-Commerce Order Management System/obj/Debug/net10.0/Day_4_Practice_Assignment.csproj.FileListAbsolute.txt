@@ -1,0 +1,15 @@
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\bin\Debug\net10.0\Day_4_Practice_Assignment.exe
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\bin\Debug\net10.0\Day_4_Practice_Assignment.deps.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\bin\Debug\net10.0\Day_4_Practice_Assignment.runtimeconfig.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\bin\Debug\net10.0\Day_4_Practice_Assignment.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\bin\Debug\net10.0\Day_4_Practice_Assignment.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\Day_4_Practice_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\Day_4_Practice_Assignment.AssemblyInfoInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\Day_4_Practice_Assignment.AssemblyInfo.cs
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\Day_4_Practice_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\Day_4_Practice_Assignment.sourcelink.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\Day_4_Practice_Assignment.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\refint\Day_4_Practice_Assignment.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\Day_4_Practice_Assignment.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\Day_4_Practice_Assignment.genruntimeconfig.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\ref\Day_4_Practice_Assignment.dll

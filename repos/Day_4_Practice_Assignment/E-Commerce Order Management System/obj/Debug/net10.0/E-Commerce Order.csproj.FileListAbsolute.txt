@@ -1,0 +1,15 @@
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\bin\Debug\net10.0\E-Commerce Order.exe
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\bin\Debug\net10.0\E-Commerce Order.deps.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\bin\Debug\net10.0\E-Commerce Order.runtimeconfig.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\bin\Debug\net10.0\E-Commerce Order.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\bin\Debug\net10.0\E-Commerce Order.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\E-Commerce Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\E-Commerce Order.AssemblyInfoInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\E-Commerce Order.AssemblyInfo.cs
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\E-Commerce Order.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\E-Commerce Order.sourcelink.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\E-Commerce Order.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\refint\E-Commerce Order.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\E-Commerce Order.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\E-Commerce Order.genruntimeconfig.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\obj\Debug\net10.0\ref\E-Commerce Order.dll

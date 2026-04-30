@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Day_4_Practice_Assignment/1.0.0": {
+        "runtime": {
+          "Day_4_Practice_Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day_4_Practice_Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

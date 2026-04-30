@@ -1,0 +1,18 @@
+Account A101 created with balance 5000
+Account A102 created with balance 3000
+Transaction T1 added to queue.
+Transaction T2 added to queue.
+Transaction T3 added to queue.
+Duplicate transaction blocked: T1
+Transaction T1 processed. New Balance: 6000
+Transaction T2 processed. New Balance: 4000
+Transaction T3 failed: Insufficient balance
+Account A101 Balance: 4000
+Rollback successful for Transaction T2. Updated Balance: 6000
+Account A101 Balance: 6000
+
+Transaction History:
+T1 | A101 | 1000
+
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\bin\Debug\net10.0\Banking Transaction System User Story.exe (process 13184) exited with code 0 (0x0).
+Press any key to close this window . . .

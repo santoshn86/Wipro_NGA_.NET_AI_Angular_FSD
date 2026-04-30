@@ -1,0 +1,25 @@
+User 1 added.
+User 2 added.
+User 1 already exists.
+Post added: Hello World!
+Post added: AI is amazing
+Post liked: Hello World! (Total Likes: 1)
+Post liked: Hello World! (Total Likes: 2)
+
+Posts and Likes:
+Hello World! → Likes: 2
+AI is amazing → Likes: 0
+Undo: Removed like from Hello World!
+
+Posts and Likes:
+Hello World! → Likes: 1
+AI is amazing → Likes: 0
+
+Processing Notifications:
+New post added: Hello World!
+New post added: AI is amazing
+Post liked: Hello World!
+Post liked: Hello World!
+
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\bin\Debug\net10.0\Social Media User Engagement System.exe (process 21404) exited with code 0 (0x0).
+Press any key to close this window . . .

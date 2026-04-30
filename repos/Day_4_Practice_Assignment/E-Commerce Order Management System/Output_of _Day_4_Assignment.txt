@@ -1,0 +1,136 @@
+
+Order Management System Menu:
+1. Add Customer
+2. Add Order
+3. Update Order
+4. Process Orders
+5. Show Order History
+6. Show Unique Categories
+7. Remove Order
+8. Exit
+Select an option (1-8): 1
+How many customers do you want to add? 2
+Enter Customer #1 ID: 2001
+Enter Customer #1 Name: Santosh
+Enter Customer #2 ID: 2002
+Enter Customer #2 Name: Rucha
+
+Order Management System Menu:
+1. Add Customer
+2. Add Order
+3. Update Order
+4. Process Orders
+5. Show Order History
+6. Show Unique Categories
+7. Remove Order
+8. Exit
+Select an option (1-8): 2
+How many orders do you want to add? 2
+Enter Order #1 ID: 2001
+Enter Customer ID for Order #1: 1
+Enter Product Name for Order #1: laptop
+Enter Category for Order #1: Electronics
+Enter Price for Order #1: 65000
+Order 2001 added.
+Enter Order #2 ID: 2002
+Enter Customer ID for Order #2: 2
+Enter Product Name for Order #2: iPhone
+Enter Category for Order #2: Mobile
+Enter Price for Order #2: 840000
+Order 2002 added.
+
+Order Management System Menu:
+1. Add Customer
+2. Add Order
+3. Update Order
+4. Process Orders
+5. Show Order History
+6. Show Unique Categories
+7. Remove Order
+8. Exit
+Select an option (1-8): 3
+Enter Order ID to update: 2001
+Enter new Product Name: Air Condition
+Enter new Price: 55000
+Order 2001 updated.
+
+Order Management System Menu:
+1. Add Customer
+2. Add Order
+3. Update Order
+4. Process Orders
+5. Show Order History
+6. Show Unique Categories
+7. Remove Order
+8. Exit
+Select an option (1-8): 4
+Processing Order 2001 - Air Condition
+Processing Order 2002 - iPhone
+
+Order Management System Menu:
+1. Add Customer
+2. Add Order
+3. Update Order
+4. Process Orders
+5. Show Order History
+6. Show Unique Categories
+7. Remove Order
+8. Exit
+Select an option (1-8): 5
+Enter Order ID to show history: 2001
+Status History for Order 2001 (latest first):
+- Processed
+- Updated
+- Created
+
+Order Management System Menu:
+1. Add Customer
+2. Add Order
+3. Update Order
+4. Process Orders
+5. Show Order History
+6. Show Unique Categories
+7. Remove Order
+8. Exit
+Select an option (1-8): 6
+Unique Categories:
+Electronics
+Mobile
+
+Order Management System Menu:
+1. Add Customer
+2. Add Order
+3. Update Order
+4. Process Orders
+5. Show Order History
+6. Show Unique Categories
+7. Remove Order
+8. Exit
+Select an option (1-8): 7
+Enter Order ID to remove: 2002
+Order 2002 removed.
+
+Order Management System Menu:
+1. Add Customer
+2. Add Order
+3. Update Order
+4. Process Orders
+5. Show Order History
+6. Show Unique Categories
+7. Remove Order
+8. Exit
+Select an option (1-8): 4
+
+Order Management System Menu:
+1. Add Customer
+2. Add Order
+3. Update Order
+4. Process Orders
+5. Show Order History
+6. Show Unique Categories
+7. Remove Order
+8. Exit
+Select an option (1-8): 8
+
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Day_4_Practice_Assignment\bin\Debug\net10.0\Day_4_Practice_Assignment.exe (process 12816) exited with code 0 (0x0).
+Press any key to close this window . . .

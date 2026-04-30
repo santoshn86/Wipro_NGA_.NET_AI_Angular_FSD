@@ -1,0 +1,34 @@
+﻿namespace Day_4_Practice_Assignment
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            OrderManagementSystem system = new OrderManagementSystem();
+
+            // Add Customers
+            system.AddCustomer(1, "Santosh");
+            system.AddCustomer(2, "Rahul");
+
+            // Add Orders
+            system.AddOrder(new Order(101, 1, "Laptop", "Electronics", 75000));
+            system.AddOrder(new Order(102, 2, "Shoes", "Fashion", 3000));
+            system.AddOrder(new Order(103, 1, "Mobile", "Electronics", 25000));
+
+            // Update Order
+            system.UpdateOrder(102, "Running Shoes", 3500);
+
+            // Process Orders
+            system.ProcessOrders();
+
+            // Show Status History
+            system.ShowOrderHistory(101);
+
+            // Show Unique Categories
+            system.ShowCategories();
+
+            // Remove Order
+            system.RemoveOrder(103);
+        }
+    }
+}

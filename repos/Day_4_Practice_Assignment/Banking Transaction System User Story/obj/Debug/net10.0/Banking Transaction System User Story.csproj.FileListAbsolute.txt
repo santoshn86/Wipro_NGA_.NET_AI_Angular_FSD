@@ -1,0 +1,15 @@
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\bin\Debug\net10.0\Banking Transaction System User Story.exe
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\bin\Debug\net10.0\Banking Transaction System User Story.deps.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\bin\Debug\net10.0\Banking Transaction System User Story.runtimeconfig.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\bin\Debug\net10.0\Banking Transaction System User Story.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\bin\Debug\net10.0\Banking Transaction System User Story.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\obj\Debug\net10.0\Banking Transaction System User Story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\obj\Debug\net10.0\Banking Transaction System User Story.AssemblyInfoInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\obj\Debug\net10.0\Banking Transaction System User Story.AssemblyInfo.cs
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\obj\Debug\net10.0\Banking Transaction System User Story.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\obj\Debug\net10.0\Banking Transaction System User Story.sourcelink.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\obj\Debug\net10.0\Banking Transaction System User Story.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\obj\Debug\net10.0\refint\Banking Transaction System User Story.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\obj\Debug\net10.0\Banking Transaction System User Story.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\obj\Debug\net10.0\Banking Transaction System User Story.genruntimeconfig.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Banking Transaction System User Story\obj\Debug\net10.0\ref\Banking Transaction System User Story.dll

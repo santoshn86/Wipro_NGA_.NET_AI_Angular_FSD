@@ -1,0 +1,15 @@
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\bin\Debug\net10.0\Music Playlist Manager.exe
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\bin\Debug\net10.0\Music Playlist Manager.deps.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\bin\Debug\net10.0\Music Playlist Manager.runtimeconfig.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\bin\Debug\net10.0\Music Playlist Manager.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\bin\Debug\net10.0\Music Playlist Manager.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\obj\Debug\net10.0\Music Playlist Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\obj\Debug\net10.0\Music Playlist Manager.AssemblyInfoInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\obj\Debug\net10.0\Music Playlist Manager.AssemblyInfo.cs
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\obj\Debug\net10.0\Music Playlist Manager.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\obj\Debug\net10.0\Music Playlist Manager.sourcelink.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\obj\Debug\net10.0\Music Playlist Manager.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\obj\Debug\net10.0\refint\Music Playlist Manager.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\obj\Debug\net10.0\Music Playlist Manager.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\obj\Debug\net10.0\Music Playlist Manager.genruntimeconfig.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\obj\Debug\net10.0\ref\Music Playlist Manager.dll

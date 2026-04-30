@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Banking Transaction System User Story/">
+    <Project Path="Banking Transaction System User Story/Banking Transaction System User Story.csproj" Id="dca7ab12-aeb1-4023-9e79-4d33d76fe39f" />
+  </Folder>
+  <Folder Name="/E-Commerce Order Management System/">
+    <Project Path="Day_4_Practice_Assignment/E-Commerce Order.csproj" />
+  </Folder>
+  <Folder Name="/Music Playlist Manager/">
+    <Project Path="Music Playlist Manager/Music Playlist Manager.csproj" Id="1c346cc2-ef0d-49ad-af89-d80f2896ccc5" />
+  </Folder>
+  <Folder Name="/Social Media User Engagement System/">
+    <Project Path="Social Media User Engagement System/Social Media User Engagement System.csproj" />
+  </Folder>
+  <Folder Name="/Task Scheduler System/">
+    <Project Path="Task Scheduler System/Task Scheduler System.csproj" Id="fafb51e5-c54d-429a-81bb-128f1d40901c" />
+  </Folder>
+</Solution>

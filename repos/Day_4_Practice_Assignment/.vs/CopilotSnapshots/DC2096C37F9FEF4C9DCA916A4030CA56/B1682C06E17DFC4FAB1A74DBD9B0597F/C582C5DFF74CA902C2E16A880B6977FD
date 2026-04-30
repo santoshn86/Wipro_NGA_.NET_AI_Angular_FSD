@@ -1,0 +1,99 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Day_4_Practice_Assignment
+{
+    internal class OrderManagementSystem
+    {
+        // List to store all orders
+        private List<Order> orders = new List<Order>();
+
+        // Dictionary to map CustomerId -> Customer
+        private Dictionary<int, Customer> customers = new Dictionary<int, Customer>();
+
+        // HashSet for unique categories
+        private HashSet<string> categories = new HashSet<string>();
+
+        // Queue for order processing (FIFO)
+        private Queue<Order> orderQueue = new Queue<Order>();
+
+        // Add Customer
+        public void AddCustomer(int id, string name)
+        {
+            customers[id] = new Customer(id, name);
+        }
+
+        // Add Order
+        public void AddOrder(Order order)
+        {
+            orders.Add(order);
+            orderQueue.Enqueue(order);
+            categories.Add(order.Category);
+
+            Console.WriteLine($"Order {order.OrderId} added.");
+        }
+
+        // Update Order
+        public void UpdateOrder(int orderId, string newProduct, double newPrice)
+        {
+            foreach (var order in orders)
+            {
+                if (order.OrderId == orderId)
+                {
+                    order.ProductName = newProduct;
+                    order.Price = newPrice;
+                    order.StatusHistory.Push("Updated");
+
+                    Console.WriteLine($"Order {orderId} updated.");
+                    return;
+                }
+            }
+        }
+
+        // Remove Order
+        public void RemoveOrder(int orderId)
+        {
+            orders.RemoveAll(o => o.OrderId == orderId);
+            Console.WriteLine($"Order {orderId} removed.");
+        }
+
+        // Process Orders (FIFO)
+        public void ProcessOrders()
+        {
+            while (orderQueue.Count > 0)
+            {
+                var order = orderQueue.Dequeue();
+                order.StatusHistory.Push("Processed");
+
+                Console.WriteLine($"Processing Order {order.OrderId} - {order.ProductName}");
+            }
+        }
+
+        // Show Order Status History
+        public void ShowOrderHistory(int orderId)
+        {
+            var order = orders.Find(o => o.OrderId == orderId);
+
+            if (order != null)
+            {
+                Console.WriteLine($"Status History for Order {orderId}:");
+
+                foreach (var status in order.StatusHistory)
+                {
+                    Console.WriteLine(status);
+                }
+            }
+        }
+
+        // Display Unique Categories
+        public void ShowCategories()
+        {
+            Console.WriteLine("Unique Categories:");
+            foreach (var cat in categories)
+            {
+                Console.WriteLine(cat);
+            }
+        }
+    }
+}

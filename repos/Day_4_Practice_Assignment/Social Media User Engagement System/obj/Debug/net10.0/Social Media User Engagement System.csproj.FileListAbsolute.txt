@@ -1,0 +1,15 @@
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\bin\Debug\net10.0\Social Media User Engagement System.exe
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\bin\Debug\net10.0\Social Media User Engagement System.deps.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\bin\Debug\net10.0\Social Media User Engagement System.runtimeconfig.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\bin\Debug\net10.0\Social Media User Engagement System.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\bin\Debug\net10.0\Social Media User Engagement System.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\obj\Debug\net10.0\Social Media User Engagement System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\obj\Debug\net10.0\Social Media User Engagement System.AssemblyInfoInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\obj\Debug\net10.0\Social Media User Engagement System.AssemblyInfo.cs
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\obj\Debug\net10.0\Social Media User Engagement System.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\obj\Debug\net10.0\Social Media User Engagement System.sourcelink.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\obj\Debug\net10.0\Social Media User Engagement System.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\obj\Debug\net10.0\refint\Social Media User Engagement System.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\obj\Debug\net10.0\Social Media User Engagement System.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\obj\Debug\net10.0\Social Media User Engagement System.genruntimeconfig.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Social Media User Engagement System\obj\Debug\net10.0\ref\Social Media User Engagement System.dll

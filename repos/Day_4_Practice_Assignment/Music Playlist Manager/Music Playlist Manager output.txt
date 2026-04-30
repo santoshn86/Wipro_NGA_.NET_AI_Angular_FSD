@@ -1,0 +1,27 @@
+Song added to playlist: Song A
+Song added to playlist: Song B
+Song added at beginning: Song Start
+Song removed: Song B
+Song 'Song A' added with rating 5
+Song 'Song C' added with rating 3
+Song 'Song D' added with rating 4
+Artist 'Arijit Singh' → Song 'Tum Hi Ho' added
+Artist 'Shreya Ghoshal' → Song 'Sun Raha Hai' added
+Artist 'Atif Aslam' → Song 'Jeene Laga Hoon' added
+
+Playlist:
+Song Start
+Song A
+
+Songs Sorted by Rating:
+Rating 3 → Song C
+Rating 4 → Song D
+Rating 5 → Song A
+
+Songs Sorted by Artist:
+Arijit Singh → Tum Hi Ho
+Atif Aslam → Jeene Laga Hoon
+Shreya Ghoshal → Sun Raha Hai
+
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_4_Practice_Assignment\Music Playlist Manager\bin\Debug\net10.0\Music Playlist Manager.exe (process 20656) exited with code 0 (0x0).
+Press any key to close this window . . .

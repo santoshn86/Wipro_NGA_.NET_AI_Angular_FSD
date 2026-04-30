@@ -1,0 +1,78 @@
+﻿namespace Day_4_Practice_Assignment
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            OrderManagementSystem system = new OrderManagementSystem();
+
+            Console.Write("How many customers do you want to add? ");
+            int customerCount = int.Parse(Console.ReadLine());
+            for (int i = 0; i < customerCount; i++)
+            {
+                Console.Write($"Enter Customer #{i + 1} ID: ");
+                int id = int.Parse(Console.ReadLine());
+                Console.Write($"Enter Customer #{i + 1} Name: ");
+                string name = Console.ReadLine();
+                system.AddCustomer(id, name);
+            }
+
+            Console.Write("How many orders do you want to add? ");
+            int orderCount = int.Parse(Console.ReadLine());
+            for (int i = 0; i < orderCount; i++)
+            {
+                Console.Write($"Enter Order #{i + 1} ID: ");
+                int orderId = int.Parse(Console.ReadLine());
+                Console.Write($"Enter Customer ID for Order #{i + 1}: ");
+                int custId = int.Parse(Console.ReadLine());
+                Console.Write($"Enter Product Name for Order #{i + 1}: ");
+                string product = Console.ReadLine();
+                Console.Write($"Enter Category for Order #{i + 1}: ");
+                string category = Console.ReadLine();
+                Console.Write($"Enter Price for Order #{i + 1}: ");
+                double price = double.Parse(Console.ReadLine());
+                system.AddOrder(new Order(orderId, custId, product, category, price));
+            }
+
+            Console.Write("Do you want to update an order? (y/n): ");
+            if (Console.ReadLine().ToLower() == "y")
+            {
+                Console.Write("Enter Order ID to update: ");
+                int updateId = int.Parse(Console.ReadLine());
+                Console.Write("Enter new Product Name: ");
+                string newProduct = Console.ReadLine();
+                Console.Write("Enter new Price: ");
+                double newPrice = double.Parse(Console.ReadLine());
+                system.UpdateOrder(updateId, newProduct, newPrice);
+            }
+
+            Console.Write("Process all orders? (y/n): ");
+            if (Console.ReadLine().ToLower() == "y")
+            {
+                system.ProcessOrders();
+            }
+
+            Console.Write("Show order history? (y/n): ");
+            if (Console.ReadLine().ToLower() == "y")
+            {
+                Console.Write("Enter Order ID to show history: ");
+                int histId = int.Parse(Console.ReadLine());
+                system.ShowOrderHistory(histId);
+            }
+
+            Console.Write("Show unique categories? (y/n): ");
+            if (Console.ReadLine().ToLower() == "y")
+            {
+                system.ShowCategories();
+            }
+
+            Console.Write("Remove an order? (y/n): ");
+            if (Console.ReadLine().ToLower() == "y")
+            {
+                Console.Write("Enter Order ID to remove: ");
+                int remId = int.Parse(Console.ReadLine());
+                system.RemoveOrder(remId);
+            }
+        }
+    }
+}
