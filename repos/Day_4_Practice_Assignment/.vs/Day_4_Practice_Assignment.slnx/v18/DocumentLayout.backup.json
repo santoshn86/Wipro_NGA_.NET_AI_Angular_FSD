@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_4_Practice_Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAFB51E5-C54D-429A-81BB-128F1D40901C}|Task Scheduler System\\Task Scheduler System.csproj|c:\\users\\santo\\source\\wipro_nga_.net_ai_angular_fsd\\repos\\day_4_practice_assignment\\task scheduler system\\task_scheduler_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAFB51E5-C54D-429A-81BB-128F1D40901C}|Task Scheduler System\\Task Scheduler System.csproj|solutionrelative:task scheduler system\\task_scheduler_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCA7AB12-AEB1-4023-9E79-4D33D76FE39F}|Banking Transaction System User Story\\Banking Transaction System User Story.csproj|c:\\users\\santo\\source\\wipro_nga_.net_ai_angular_fsd\\repos\\day_4_practice_assignment\\banking transaction system user story\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA7AB12-AEB1-4023-9E79-4D33D76FE39F}|Banking Transaction System User Story\\Banking Transaction System User Story.csproj|solutionrelative:banking transaction system user story\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAFB51E5-C54D-429A-81BB-128F1D40901C}|Task Scheduler System\\Task Scheduler System.csproj|c:\\users\\santo\\source\\wipro_nga_.net_ai_angular_fsd\\repos\\day_4_practice_assignment\\task scheduler system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAFB51E5-C54D-429A-81BB-128F1D40901C}|Task Scheduler System\\Task Scheduler System.csproj|solutionrelative:task scheduler system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCA7AB12-AEB1-4023-9E79-4D33D76FE39F}|Banking Transaction System User Story\\Banking Transaction System User Story.csproj|c:\\users\\santo\\source\\wipro_nga_.net_ai_angular_fsd\\repos\\day_4_practice_assignment\\banking transaction system user story\\output of banking transaction system.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DCA7AB12-AEB1-4023-9E79-4D33D76FE39F}|Banking Transaction System User Story\\Banking Transaction System User Story.csproj|solutionrelative:banking transaction system user story\\output of banking transaction system.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Task_Scheduler_System.cs",
-              "DocumentMoniker": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_4_Practice_Assignment\\Task Scheduler System\\Task_Scheduler_System.cs",
-              "RelativeDocumentMoniker": "Task Scheduler System\\Task_Scheduler_System.cs",
-              "ToolTip": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_4_Practice_Assignment\\Task Scheduler System\\Task_Scheduler_System.cs",
-              "RelativeToolTip": "Task Scheduler System\\Task_Scheduler_System.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T02:16:55.113Z",
+              "DocumentIndex": 1,
+              "Title": "Output of Banking Transaction System.txt",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_4_Practice_Assignment\\Banking Transaction System User Story\\Output of Banking Transaction System.txt",
+              "RelativeDocumentMoniker": "Banking Transaction System User Story\\Output of Banking Transaction System.txt",
+              "ToolTip": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_4_Practice_Assignment\\Banking Transaction System User Story\\Output of Banking Transaction System.txt",
+              "RelativeToolTip": "Banking Transaction System User Story\\Output of Banking Transaction System.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-01T09:52:38.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_4_Practice_Assignment\\Task Scheduler System\\Program.cs",
-              "RelativeDocumentMoniker": "Task Scheduler System\\Program.cs",
-              "ToolTip": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_4_Practice_Assignment\\Task Scheduler System\\Program.cs",
-              "RelativeToolTip": "Task Scheduler System\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_4_Practice_Assignment\\Banking Transaction System User Story\\Program.cs",
+              "RelativeDocumentMoniker": "Banking Transaction System User Story\\Program.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_4_Practice_Assignment\\Banking Transaction System User Story\\Program.cs",
+              "RelativeToolTip": "Banking Transaction System User Story\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T02:16:25.734Z",
+              "WhenOpened": "2026-05-01T09:51:55.963Z",
               "EditorCaption": ""
             }
           ]
