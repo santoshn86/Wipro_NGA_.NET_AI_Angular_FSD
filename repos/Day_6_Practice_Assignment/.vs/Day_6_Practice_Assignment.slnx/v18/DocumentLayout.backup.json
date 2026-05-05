@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\Day_6_Practice_Assignment.csproj|c:\\users\\santo\\source\\wipro_nga_.net_ai_angular_fsd\\repos\\day_6_practice_assignment\\day_6_practice_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\Day_6_Practice_Assignment.csproj|solutionrelative:day_6_practice_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\Real-Time_Order_Notification_System.csproj|c:\\users\\santo\\source\\wipro_nga_.net_ai_angular_fsd\\repos\\day_6_practice_assignment\\day_6_practice_assignment\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\Real-Time_Order_Notification_System.csproj|solutionrelative:day_6_practice_assignment\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\Day_6_Practice_Assignment.csproj|c:\\users\\santo\\source\\wipro_nga_.net_ai_angular_fsd\\repos\\day_6_practice_assignment\\day_6_practice_assignment\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\Day_6_Practice_Assignment.csproj|solutionrelative:day_6_practice_assignment\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\RealTime_Order_Notification_System.csproj|c:\\users\\santo\\source\\wipro_nga_.net_ai_angular_fsd\\repos\\day_6_practice_assignment\\day_6_practice_assignment\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\RealTime_Order_Notification_System.csproj|solutionrelative:day_6_practice_assignment\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\RealTime_Order_Notification_System.csproj|c:\\users\\santo\\source\\wipro_nga_.net_ai_angular_fsd\\repos\\day_6_practice_assignment\\day_6_practice_assignment\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\RealTime_Order_Notification_System.csproj|solutionrelative:day_6_practice_assignment\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\RealTime_Order_Notification_System.csproj|c:\\users\\santo\\source\\wipro_nga_.net_ai_angular_fsd\\repos\\day_6_practice_assignment\\day_6_practice_assignment\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06F3DB71-4E3F-4E93-857D-2496442A5F1B}|Day_6_Practice_Assignment\\RealTime_Order_Notification_System.csproj|solutionrelative:day_6_practice_assignment\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\LoggerService.cs",
+              "RelativeDocumentMoniker": "Day_6_Practice_Assignment\\LoggerService.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\LoggerService.cs",
+              "RelativeToolTip": "Day_6_Practice_Assignment\\LoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:26:22.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SMSService.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\SMSService.cs",
+              "RelativeDocumentMoniker": "Day_6_Practice_Assignment\\SMSService.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\SMSService.cs",
+              "RelativeToolTip": "Day_6_Practice_Assignment\\SMSService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:24:14.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\EmailService.cs",
+              "RelativeDocumentMoniker": "Day_6_Practice_Assignment\\EmailService.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\EmailService.cs",
+              "RelativeToolTip": "Day_6_Practice_Assignment\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:22:14.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "Day_6_Practice_Assignment\\OrderProcessor.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\OrderProcessor.cs",
+              "RelativeToolTip": "Day_6_Practice_Assignment\\OrderProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:17:19.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\Order.cs",
+              "RelativeDocumentMoniker": "Day_6_Practice_Assignment\\Order.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\Order.cs",
+              "RelativeToolTip": "Day_6_Practice_Assignment\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:12:02.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Day_6_Practice_Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\santo\\source\\Wipro_NGA_.NET_AI_Angular_FSD\\repos\\Day_6_Practice_Assignment\\Day_6_Practice_Assignment\\Program.cs",
+              "RelativeToolTip": "Day_6_Practice_Assignment\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T17:10:17.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

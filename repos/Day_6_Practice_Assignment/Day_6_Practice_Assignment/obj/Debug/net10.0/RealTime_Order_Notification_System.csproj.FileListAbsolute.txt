@@ -1,0 +1,15 @@
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\bin\Debug\net10.0\RealTime_Order_Notification_System.exe
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\bin\Debug\net10.0\RealTime_Order_Notification_System.deps.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\bin\Debug\net10.0\RealTime_Order_Notification_System.runtimeconfig.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\bin\Debug\net10.0\RealTime_Order_Notification_System.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\bin\Debug\net10.0\RealTime_Order_Notification_System.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\obj\Debug\net10.0\RealTime_Order_Notification_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\obj\Debug\net10.0\RealTime_Order_Notification_System.AssemblyInfoInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\obj\Debug\net10.0\RealTime_Order_Notification_System.AssemblyInfo.cs
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\obj\Debug\net10.0\RealTime_Order_Notification_System.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\obj\Debug\net10.0\RealTime_Order_Notification_System.sourcelink.json
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\obj\Debug\net10.0\RealTime_Order_Notification_System.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\obj\Debug\net10.0\refint\RealTime_Order_Notification_System.dll
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\obj\Debug\net10.0\RealTime_Order_Notification_System.pdb
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\obj\Debug\net10.0\RealTime_Order_Notification_System.genruntimeconfig.cache
+C:\Users\santo\source\Wipro_NGA_.NET_AI_Angular_FSD\repos\Day_6_Practice_Assignment\Day_6_Practice_Assignment\obj\Debug\net10.0\ref\RealTime_Order_Notification_System.dll
